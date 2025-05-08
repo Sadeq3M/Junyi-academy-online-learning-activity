@@ -1,3 +1,5 @@
+# Junyi-academy-online-learning-activity
+
 Project Overview
 This repository analyzes user engagement patterns on the Junyi Academy online learning platform using a comprehensive dataset of student activities, exercises, and metadata. The project explores temporal trends, problem-solving behaviors, and predictive modeling to understand factors influencing learning outcomes and platform usage.
 
@@ -58,4 +60,4 @@ LSTM: Two-layer architecture (128/64 units).
 
 Statistical Tests: Augmented Dickey-Fuller (ADF) for stationarity.
 
-# Junyi-academy-online-learning-activity
+
